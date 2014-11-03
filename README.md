@@ -9,4 +9,4 @@ Macastore是一个使用Go语言Macaron框架开发的商城系统, 分为社区
 Macastore架构技术研讨
 ---
 
-http://www.yougam.com/node/Macastore/
+所有技术研讨都会在这个 [Macastore](http://www.yougam.com/node/Macastore/) 节点里进行讨论和记录 
